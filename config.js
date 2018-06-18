@@ -14,5 +14,6 @@ var themeCss = "themes/default-theme.css";
 
 var networkStat = [
         ["npool.pw/jor", "https://api.npool.pw/jor"],
-        ["pool.jormo.org", "https://pool.jormo.org/api"]
+        ["pool.jormo.org", "https://pool.jormo.org/api"],
+        ["getpool.org/jor", "api.getpool.org/rpc/jor"]
 ];
